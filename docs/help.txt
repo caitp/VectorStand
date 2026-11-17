@@ -1,0 +1,11 @@
+Usage:
+
+Make <options...> [[variable=value]...]
+--help                  Show this help message.
+[variable=value]        Define a pre-defined variable. Documented ones are
+                        really the only ones that should be of use :)
+
+Pre-defined variables:
+
+have_brace=false        If set to true, widens the rear edge of the stand and
+                        insets to hold a 1x2" brace.
